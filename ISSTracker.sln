@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISSTracker", "ISSTracker.csproj", "{A5B6D55F-ECBD-4765-95F9-50716FA78DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B6D55F-ECBD-4765-95F9-50716FA78DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B6D55F-ECBD-4765-95F9-50716FA78DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B6D55F-ECBD-4765-95F9-50716FA78DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B6D55F-ECBD-4765-95F9-50716FA78DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7AEFDC-4412-41B7-8076-D103B1462FE0}
+	EndGlobalSection
+EndGlobal
